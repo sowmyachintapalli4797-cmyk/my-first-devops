@@ -1,4 +1,4 @@
-DEVOPS: 
+DEVOPS;
       devops = development+operations
       developers (who write code)
       operations(who develop/manage systems)
@@ -11,3 +11,4 @@ DEVOPS helps you:
      Release features faster(like adding new payment methods in Zomato)
      fix bugs quickly (like fixing login issue in IRCTC)
      Automate repetitive tasks(like server restarts,database backup)
+
